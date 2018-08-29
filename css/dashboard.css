@@ -1,27 +1,17 @@
 
   body { 
-    background-image: url('../images/images.jpeg');
+    background-image: url('../images/signup.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-image: 100% 100%;
+    background-size: cover;
     
 
   }
-
-table, td, th {
-    border: 1px solid black;
-}
-
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-
-th {
-    text-align: center;
-}
-h1{
-    color:yellow;
+.topnav{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    
 }
 
 
