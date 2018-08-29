@@ -4,15 +4,11 @@ body {
     background-image: url("../images/notebook.jpg");
     background-repeat: no-repeat;
     background-size: contain;
-
 }
-
 h1 {
     color: navy;
     margin-left: 20px;
 }
-
-
 .topnav a{
     float: left;
     color: brown;
@@ -20,6 +16,4 @@ h1 {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 10px;
-
 }
-
